@@ -2,6 +2,8 @@
   position:absolute;
   top: 30px;
   left: 5px;
-  border:5px solid #2E4801;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #2E4801;
   background-color: #90C400;
 }
