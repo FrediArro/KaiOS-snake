@@ -1,0 +1,7 @@
+#mycanvas {
+  position:absolute;
+  top: 30px;
+  left: 5px;
+  border:5px solid #2E4801;
+  background-color: #90C400;
+}
